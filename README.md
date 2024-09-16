@@ -1,7 +1,8 @@
 # Supplymentary
 for paper "Enhancing Multistep Prediction of Multivariate Market Indices Using Weighted Optical Reservoir Computing"
 
-![alt text](http://url/to/train_correlation.png)
+<img width="1241" alt="train_correlation" src="https://github.com/user-attachments/assets/3056b782-c05b-4d96-b179-5c9ff96514bc">
+
 
 
 ## References
