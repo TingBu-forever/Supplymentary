@@ -12,7 +12,7 @@ Due to the complexity of the benchmarks, a prediction model based solely on the 
 ![table 2](https://github.com/user-attachments/assets/abac033e-5c7e-4855-99f9-a6cf9295c043)
 
 
-<img width="1000" alt="train_correlation" src="https://github.com/user-attachments/assets/3056b782-c05b-4d96-b179-5c9ff96514bc">
+<img width="800" alt="train_correlation" src="https://github.com/user-attachments/assets/3056b782-c05b-4d96-b179-5c9ff96514bc">
 Fig.1.(a) An overview of one stock index sequence ^NYA with training and testing parts. (b) A feature correlation matrix heatmap for ^NYA
 
 
