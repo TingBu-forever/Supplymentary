@@ -1,4 +1,4 @@
-# Supplymentary
+# Supplymentary for RC paper
 The details of data preparation for paper "Enhancing Multistep Prediction of Multivariate Market Indices Using Weighted Optical Reservoir Computing"
 
 ## Benchamarks
